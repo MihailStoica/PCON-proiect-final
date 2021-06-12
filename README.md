@@ -10,6 +10,8 @@ Descărcarea patch-ului GRAN, deschiderea lui cu ajutorul programului MAX MSP. P
 3. Se trage drag&drop un sunet
 4. Incepem sa variem parametri (slider-urile) pana obtinem un sunte placut
 5. Activam Accelerometer pentru a varia parametrii cu ajutorul telefonului care are deja o aplicație de comunicare cu mesaje OSC instalată și configurată.
+![grsyn](https://user-images.githubusercontent.com/32812728/121760800-3f431c00-cb35-11eb-9205-8663026713a1.jpg)
+
 
 ## (Istoric)
 
