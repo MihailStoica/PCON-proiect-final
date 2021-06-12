@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=BZq0W3KOcgU&t=10s
 
 https://www.youtube.com/watch?v=ZDhVEiSvVk0
 
+https://docs.cycling74.com/max8/tutorials/00_maxindex
+
 # Dezvoltarea proiectului
 
 Pentru început:
