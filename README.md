@@ -24,8 +24,11 @@ Descărcarea patch-ului GRAN, deschiderea lui cu ajutorul programului MAX MSP. P
 
 ## (Link-uri)
 https://www.youtube.com/watch?v=Eun5kQIwjfY
+
 https://www.youtube.com/watch?v=rbeLoYrdyPc&t=34s
+
 https://www.youtube.com/watch?v=BZq0W3KOcgU&t=10s
+
 https://www.youtube.com/watch?v=ZDhVEiSvVk0
 
 # Dezvoltarea proiectului
