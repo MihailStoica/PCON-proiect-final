@@ -1,5 +1,5 @@
-# Sinteza granulara de sunet
-(Scurtă descriere)
+# Sinteză granulară de sunet
+Sinteza granulară se definește ca o metodă de sintetizare sonoră în care sunetul preînregistrat sau generat de oscilatoare este divizat în bucăţele foarte mici de o durată variabilă, ca apoi aceste ”granule” de sunet să fie redistribuite și reorganizate pentru a forma noi sunete sau muzică. Deasemenea aceste granule pot fi stratificate, redate la viteze, faze (din punct de vedere oscilator), nivele sonore şi înălţimi diferite.
 
 ## (Instalare)
 ...
