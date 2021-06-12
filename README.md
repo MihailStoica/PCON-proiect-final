@@ -1,4 +1,4 @@
-# (Titlu)
+# Sinteza granulara de sunet
 (Scurtă descriere)
 
 ## (Instalare)
