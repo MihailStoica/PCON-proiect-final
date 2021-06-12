@@ -1,22 +1,29 @@
 # Sinteză granulară de sunet
-Sinteza granulară se definește ca o metodă de sintetizare sonoră în care sunetul preînregistrat sau generat de oscilatoare este divizat în bucăţele foarte mici de o durată variabilă, ca apoi aceste ”granule” de sunet să fie redistribuite și reorganizate pentru a forma noi sunete sau muzică. Deasemenea aceste granule pot fi stratificate, redate la viteze, faze (din punct de vedere oscilator), nivele sonore şi înălţimi diferite.
+Sinteza granulară se definește ca o metodă de sintetizare sonoră în care sunetul preînregistrat sau generat de oscilatoare este divizat în bucăţele foarte mici de o durată variabilă, ca apoi aceste ”granule” de sunet să fie redistribuite și reorganizate pentru a forma noi sunete sau chiar muzică. Deasemenea aceste granule pot fi stratificate, redate la viteze, faze (din punct de vedere oscilator), nivele sonore şi înălţimi diferite.
 
-## (Instalare)
-...
+## Instalare
+Descărcarea patch-ului GRAN, deschiderea lui cu ajutorul programului MAX MSP. Pentru a varia parametrii din modulul de sinteză granulară cu ajutorul senzorilor telefonului mobil, se poate utiliza aplicația Mrmr (IOS) sau orice altă aplicație ce poate comunica cu mesaje de tip OSC.
 
-## (Utilizare)
-...
+## Utilizare
+1. Se deschide patch-ul GRAN
+2. Se alege Presentation Mode
+3. Se trage drag&drop un sunet
+4. Incepem sa variem parametri (slider-urile) pana obtinem un sunte placut
+5. Activam Accelerometer pentru a varia parametrii cu ajutorul telefonului care are deja o aplicație de comunicare cu mesaje OSC instalată și configurată.
 
 ## (Istoric)
 
-(13.05) ...
+(15.04) - Alegerea temei
 
-(3.06) ...
+(3.06) - Cercetarea și crearea algoritmului
 
-(X.06) ...
+(11.06) - Finalizarea proiectului
 
 ## (Link-uri)
-...
+https://www.youtube.com/watch?v=Eun5kQIwjfY
+https://www.youtube.com/watch?v=rbeLoYrdyPc&t=34s
+https://www.youtube.com/watch?v=BZq0W3KOcgU&t=10s
+https://www.youtube.com/watch?v=ZDhVEiSvVk0
 
 # Dezvoltarea proiectului
 
